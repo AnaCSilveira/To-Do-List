@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://www.microsoft.com/pt-br/blogmicrosofteducacao/wp-content/uploads/2021/06/EVERGREEN-JUNE-WALLPAPER-02.png);
+    background-size: 1500px 800px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 166, 0);
+    font-size: 50px;
+}
