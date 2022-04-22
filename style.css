@@ -9,3 +9,6 @@ h1{
     color: rgb(255, 166, 0);
     font-size: 50px;
 }
+.done{
+    text-decoration-line: line-through;
+}
